@@ -1,7 +1,7 @@
 // Write a program that takes a 
 // string input from the user and prints the number of vowels in the string.
 
-package leetcode;
+
 import java.util.Scanner;
 
 public class task2 {
